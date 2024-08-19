@@ -1,0 +1,15 @@
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\bin\Debug\net8.0\TicketsServices.deps.json
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\bin\Debug\net8.0\TicketsServices.dll
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\bin\Debug\net8.0\TicketsServices.pdb
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\bin\Debug\net8.0\DatTickets.dll
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\bin\Debug\net8.0\DatTickets.pdb
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\obj\Debug\net8.0\TicketsServices.csproj.AssemblyReference.cache
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\obj\Debug\net8.0\TicketsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\obj\Debug\net8.0\TicketsServices.AssemblyInfoInputs.cache
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\obj\Debug\net8.0\TicketsServices.AssemblyInfo.cs
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\obj\Debug\net8.0\TicketsServices.csproj.CoreCompileInputs.cache
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\obj\Debug\net8.0\TicketsS.B092DF5E.Up2Date
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\obj\Debug\net8.0\TicketsServices.dll
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\obj\Debug\net8.0\refint\TicketsServices.dll
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\obj\Debug\net8.0\TicketsServices.pdb
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\TicketsServices\obj\Debug\net8.0\ref\TicketsServices.dll

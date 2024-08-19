@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C187C4A4-B7FA-48C7-B422-47E7EA1EFB5A}|BusinessTickets\\BusinessTickets.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solucionnet\\workerservicewindowsnet\\businesstickets\\busresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C187C4A4-B7FA-48C7-B422-47E7EA1EFB5A}|BusinessTickets\\BusinessTickets.csproj|solutionrelative:businesstickets\\busresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C187C4A4-B7FA-48C7-B422-47E7EA1EFB5A}|BusinessTickets\\BusinessTickets.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solucionnet\\workerservicewindowsnet\\businesstickets\\bustickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C187C4A4-B7FA-48C7-B422-47E7EA1EFB5A}|BusinessTickets\\BusinessTickets.csproj|solutionrelative:businesstickets\\bustickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32031EA0-DC25-4F4A-8E60-95F71A59B251}|Model\\Model.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solucionnet\\workerservicewindowsnet\\model\\resumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32031EA0-DC25-4F4A-8E60-95F71A59B251}|Model\\Model.csproj|solutionrelative:model\\resumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32031EA0-DC25-4F4A-8E60-95F71A59B251}|Model\\Model.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solucionnet\\workerservicewindowsnet\\model\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32031EA0-DC25-4F4A-8E60-95F71A59B251}|Model\\Model.csproj|solutionrelative:model\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAA4EB7-B60B-4B84-AE49-4DB64C465DFF}|Data\\Data.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solucionnet\\workerservicewindowsnet\\data\\datresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAA4EB7-B60B-4B84-AE49-4DB64C465DFF}|Data\\Data.csproj|solutionrelative:data\\datresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAA4EB7-B60B-4B84-AE49-4DB64C465DFF}|Data\\Data.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solucionnet\\workerservicewindowsnet\\data\\dattickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAA4EB7-B60B-4B84-AE49-4DB64C465DFF}|Data\\Data.csproj|solutionrelative:data\\dattickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F4A04E-E641-46B5-B02C-D24FD5562F9E}|WorkerService1\\WorkerService1.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solucionnet\\workerservicewindowsnet\\workerservice1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3F4A04E-E641-46B5-B02C-D24FD5562F9E}|WorkerService1\\WorkerService1.csproj|solutionrelative:workerservice1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F4A04E-E641-46B5-B02C-D24FD5562F9E}|WorkerService1\\WorkerService1.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solucionnet\\workerservicewindowsnet\\workerservice1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F4A04E-E641-46B5-B02C-D24FD5562F9E}|WorkerService1\\WorkerService1.csproj|solutionrelative:workerservice1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F4A04E-E641-46B5-B02C-D24FD5562F9E}|WorkerService1\\WorkerService1.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solucionnet\\workerservicewindowsnet\\workerservice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F4A04E-E641-46B5-B02C-D24FD5562F9E}|WorkerService1\\WorkerService1.csproj|solutionrelative:workerservice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\WorkerService1\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkerService1\\appsettings.json",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\WorkerService1\\appsettings.json",
+              "RelativeToolTip": "WorkerService1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T08:03:37.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\WorkerService1\\Program.cs",
+              "RelativeDocumentMoniker": "WorkerService1\\Program.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\WorkerService1\\Program.cs",
+              "RelativeToolTip": "WorkerService1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:00:01.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\WorkerService1\\Worker.cs",
+              "RelativeDocumentMoniker": "WorkerService1\\Worker.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\WorkerService1\\Worker.cs",
+              "RelativeToolTip": "WorkerService1\\Worker.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwOQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T00:50:32.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resumen.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\Model\\Resumen.cs",
+              "RelativeDocumentMoniker": "Model\\Resumen.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\Model\\Resumen.cs",
+              "RelativeToolTip": "Model\\Resumen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T01:49:24.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\Model\\Tickets.cs",
+              "RelativeDocumentMoniker": "Model\\Tickets.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\Model\\Tickets.cs",
+              "RelativeToolTip": "Model\\Tickets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T01:48:52.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusResumen.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\BusinessTickets\\BusResumen.cs",
+              "RelativeDocumentMoniker": "BusinessTickets\\BusResumen.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\BusinessTickets\\BusResumen.cs",
+              "RelativeToolTip": "BusinessTickets\\BusResumen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:23:14.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusTickets.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\BusinessTickets\\BusTickets.cs",
+              "RelativeDocumentMoniker": "BusinessTickets\\BusTickets.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\BusinessTickets\\BusTickets.cs",
+              "RelativeToolTip": "BusinessTickets\\BusTickets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:22:10.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatResumen.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\Data\\DatResumen.cs",
+              "RelativeDocumentMoniker": "Data\\DatResumen.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\Data\\DatResumen.cs",
+              "RelativeToolTip": "Data\\DatResumen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:23:30.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatTickets.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\Data\\DatTickets.cs",
+              "RelativeDocumentMoniker": "Data\\DatTickets.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\solucionNet\\WorkerServiceWindowsNet\\Data\\DatTickets.cs",
+              "RelativeToolTip": "Data\\DatTickets.cs",
+              "ViewState": "AgIAABEAAAAAzczMzMwzwB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:03:04.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

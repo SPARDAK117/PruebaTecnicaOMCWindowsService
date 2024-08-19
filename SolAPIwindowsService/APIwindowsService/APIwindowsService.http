@@ -1,0 +1,6 @@
+@APIwindowsService_HostAddress = http://localhost:5127
+
+GET {{APIwindowsService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

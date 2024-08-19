@@ -1,0 +1,11 @@
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\bin\Debug\net8.0\DatTickets.deps.json
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\bin\Debug\net8.0\DatTickets.dll
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\bin\Debug\net8.0\DatTickets.pdb
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\obj\Debug\net8.0\DatTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\obj\Debug\net8.0\DatTickets.AssemblyInfoInputs.cache
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\obj\Debug\net8.0\DatTickets.AssemblyInfo.cs
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\obj\Debug\net8.0\DatTickets.csproj.CoreCompileInputs.cache
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\obj\Debug\net8.0\DatTickets.dll
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\obj\Debug\net8.0\refint\DatTickets.dll
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\obj\Debug\net8.0\DatTickets.pdb
+C:\Users\enriq\OneDrive\Escritorio\Prueba tecnica\SolAPIwindowsService\DatTickets\obj\Debug\net8.0\ref\DatTickets.dll

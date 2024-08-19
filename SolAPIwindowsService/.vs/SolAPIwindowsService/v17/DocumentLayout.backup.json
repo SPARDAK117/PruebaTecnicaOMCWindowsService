@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2B2397-D855-404D-8242-FD1C64AAA781}|APIwindowsService\\APIwindowsService.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solapiwindowsservice\\apiwindowsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2B2397-D855-404D-8242-FD1C64AAA781}|APIwindowsService\\APIwindowsService.csproj|solutionrelative:apiwindowsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D319F48D-DCF7-435E-ADA9-163ABA5672DB}|TicketsServices\\TicketsServices.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solapiwindowsservice\\ticketsservices\\ticketservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D319F48D-DCF7-435E-ADA9-163ABA5672DB}|TicketsServices\\TicketsServices.csproj|solutionrelative:ticketsservices\\ticketservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2B2397-D855-404D-8242-FD1C64AAA781}|APIwindowsService\\APIwindowsService.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solapiwindowsservice\\apiwindowsservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F2B2397-D855-404D-8242-FD1C64AAA781}|APIwindowsService\\APIwindowsService.csproj|solutionrelative:apiwindowsservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB9E096-55CD-4115-90E1-129084B536A2}|NewFolder1{7FB9E096-55CD-4115-90E1-129084B536A2}|C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\ControllerAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB9E096-55CD-4115-90E1-129084B536A2}|NewFolder1{7FB9E096-55CD-4115-90E1-129084B536A2}|solutionrelative:ControllerAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750B3EC-61AA-4368-9879-1C09EBAC975D}|DatTickets\\DatTickets.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solapiwindowsservice\\dattickets\\datatickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750B3EC-61AA-4368-9879-1C09EBAC975D}|DatTickets\\DatTickets.csproj|solutionrelative:dattickets\\datatickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750B3EC-61AA-4368-9879-1C09EBAC975D}|DatTickets\\DatTickets.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solapiwindowsservice\\dattickets\\dataresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750B3EC-61AA-4368-9879-1C09EBAC975D}|DatTickets\\DatTickets.csproj|solutionrelative:dattickets\\dataresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2B2397-D855-404D-8242-FD1C64AAA781}|APIwindowsService\\APIwindowsService.csproj|c:\\users\\enriq\\onedrive\\escritorio\\prueba tecnica\\solapiwindowsservice\\apiwindowsservice\\apiwindowsservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6F2B2397-D855-404D-8242-FD1C64AAA781}|APIwindowsService\\APIwindowsService.csproj|solutionrelative:apiwindowsservice\\apiwindowsservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APIwindowsService.http",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\APIwindowsService\\APIwindowsService.http",
+              "RelativeDocumentMoniker": "APIwindowsService\\APIwindowsService.http",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\APIwindowsService\\APIwindowsService.http",
+              "RelativeToolTip": "APIwindowsService\\APIwindowsService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-19T07:53:05.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControllerAPI.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\ControllerAPI.cs",
+              "RelativeDocumentMoniker": "ControllerAPI.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\ControllerAPI.cs",
+              "RelativeToolTip": "ControllerAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:16:15.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\APIwindowsService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIwindowsService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\APIwindowsService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIwindowsService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T06:59:17.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\APIwindowsService\\Program.cs",
+              "RelativeDocumentMoniker": "APIwindowsService\\Program.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\APIwindowsService\\Program.cs",
+              "RelativeToolTip": "APIwindowsService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:51:34.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketService1.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\TicketsServices\\TicketService1.cs",
+              "RelativeDocumentMoniker": "TicketsServices\\TicketService1.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\TicketsServices\\TicketService1.cs",
+              "RelativeToolTip": "TicketsServices\\TicketService1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:34:21.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dataResumen.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\DatTickets\\dataResumen.cs",
+              "RelativeDocumentMoniker": "DatTickets\\dataResumen.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\DatTickets\\dataResumen.cs",
+              "RelativeToolTip": "DatTickets\\dataResumen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:30:44.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dataTickets.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\DatTickets\\dataTickets.cs",
+              "RelativeDocumentMoniker": "DatTickets\\dataTickets.cs",
+              "ToolTip": "C:\\Users\\enriq\\OneDrive\\Escritorio\\Prueba tecnica\\SolAPIwindowsService\\DatTickets\\dataTickets.cs",
+              "RelativeToolTip": "DatTickets\\dataTickets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:30:10.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
